@@ -1,210 +1,72 @@
 # RESTful API Starter
 
 A clean, modular RESTful API starter template with Express.js.
-Update 3 on 2014-01-08 10:51:54
-Update 6 on 2014-01-08 11:23:00
-Update 9 on 2014-01-08 09:54:36
-Update 12 on 2014-01-09 14:49:01
-Update 13 on 2014-01-13 04:49:06
-Update 14 on 2014-01-13 17:55:31
-Update 18 on 2014-01-16 08:48:27
-Update 19 on 2014-01-16 01:36:35
-Update 24 on 2014-01-16 23:48:23
-Update 31 on 2014-01-20 17:09:42
-Update 32 on 2014-01-20 12:24:40
-Update 35 on 2014-01-20 17:04:43
-Update 36 on 2014-01-20 23:10:16
-Update 40 on 2014-01-22 12:17:58
-Update 56 on 2014-01-26 13:13:02
-Update 57 on 2014-01-26 02:40:03
-Update 71 on 2014-01-29 06:11:42
-Update 72 on 2014-01-29 06:13:18
-Update 75 on 2014-01-29 07:28:29
-Update 77 on 2014-01-29 03:37:31
-Update 83 on 2014-01-30 08:40:26
-Update 91 on 2014-02-03 19:06:17
-Update 96 on 2014-02-03 14:07:20
-Update 103 on 2014-02-04 20:49:48
-Update 115 on 2014-02-10 07:09:49
-Update 116 on 2014-02-10 23:03:19
-Update 124 on 2014-02-10 03:56:39
-Update 127 on 2014-02-11 00:50:40
-Update 132 on 2014-02-14 07:30:08
-Update 133 on 2014-02-14 04:06:01
-Update 138 on 2014-02-17 20:24:47
-Update 140 on 2014-02-17 13:23:12
-Update 145 on 2014-02-17 20:19:40
-Update 153 on 2014-02-20 01:50:04
-Update 155 on 2014-02-24 15:38:21
-Update 165 on 2014-02-24 01:39:34
-Update 168 on 2014-02-27 02:51:10
-Update 180 on 2014-03-02 18:51:38
-Update 188 on 2014-03-03 03:37:21
-Update 201 on 2014-03-04 19:06:58
-Update 207 on 2014-03-04 06:45:05
-Update 211 on 2014-03-05 06:59:37
-Update 215 on 2014-03-05 17:57:39
-Update 222 on 2014-03-05 04:34:22
-Update 225 on 2014-03-05 20:13:52
-Update 228 on 2014-03-06 11:59:56
-Update 230 on 2014-03-06 20:26:52
-Update 236 on 2014-03-10 22:04:23
-Update 247 on 2014-03-13 19:44:28
-Update 251 on 2014-03-13 02:49:51
-Update 260 on 2014-03-28 18:01:04
-Update 280 on 2014-04-01 12:12:45
-Update 282 on 2014-04-01 14:58:09
-Update 285 on 2014-04-01 15:08:58
-Update 289 on 2014-04-09 16:28:56
-Update 290 on 2014-04-09 04:19:05
-Update 298 on 2014-04-11 21:32:58
-Update 301 on 2014-04-11 14:51:53
-Update 302 on 2014-04-11 18:49:54
-Update 303 on 2014-04-12 03:19:52
-Update 304 on 2014-04-12 08:21:23
-Update 306 on 2014-04-15 14:45:27
-Update 310 on 2014-04-18 06:02:11
-Update 311 on 2014-04-18 10:04:50
-Update 323 on 2014-04-21 10:35:08
-Update 330 on 2014-04-24 07:08:37
-Update 331 on 2014-04-24 05:42:19
-Update 332 on 2014-04-24 15:08:11
-Update 335 on 2014-04-24 12:52:37
-Update 345 on 2014-05-06 13:51:41
-Update 352 on 2014-05-06 16:32:13
-Update 356 on 2014-05-06 18:12:22
-Update 360 on 2014-05-07 03:07:08
-Update 362 on 2014-05-07 16:43:46
-Update 371 on 2014-05-11 10:58:34
-Update 372 on 2014-05-11 16:04:14
-Update 382 on 2014-05-12 15:41:56
-Update 394 on 2014-05-14 12:12:40
-Update 398 on 2014-05-14 01:07:30
-Update 400 on 2014-05-14 20:47:01
-Update 401 on 2014-05-14 05:01:09
-Update 403 on 2014-05-14 11:26:54
-Update 404 on 2014-05-15 18:02:58
-Update 408 on 2014-05-15 10:59:47
-Update 410 on 2014-05-15 07:12:10
-Update 415 on 2014-05-16 02:54:16
-Update 429 on 2014-05-27 17:03:52
-Update 434 on 2014-05-29 22:24:28
-Update 436 on 2014-05-29 22:41:06
-Update 452 on 2014-06-09 05:52:56
-Update 454 on 2014-06-09 15:17:53
-Update 455 on 2014-06-09 22:53:42
-Update 456 on 2014-06-09 01:05:39
-Update 461 on 2014-06-11 18:53:04
-Update 462 on 2014-06-11 06:13:20
-Update 464 on 2014-06-11 20:57:02
-Update 466 on 2014-06-13 06:25:45
-Update 468 on 2014-06-13 19:20:29
-Update 479 on 2014-06-15 13:14:22
-Update 480 on 2014-06-15 16:50:17
-Update 485 on 2014-06-18 10:29:15
-Update 487 on 2014-06-18 00:00:15
-Update 488 on 2014-06-19 07:32:52
-Update 494 on 2014-06-19 07:30:00
-Update 499 on 2014-06-20 01:43:08
-Update 502 on 2014-06-21 07:12:57
-Update 503 on 2014-06-23 08:08:32
-Update 504 on 2014-06-23 03:21:00
-Update 510 on 2014-06-24 06:07:05
-Update 516 on 2014-06-26 22:44:30
-Update 519 on 2014-06-30 04:05:25
-Update 522 on 2014-07-04 20:25:50
-Update 527 on 2014-07-07 16:04:30
-Update 529 on 2014-07-07 01:35:30
-Update 530 on 2014-07-07 03:53:54
-Update 533 on 2014-07-09 13:25:17
-Update 542 on 2014-07-14 21:28:00
-Update 543 on 2014-07-14 02:15:40
-Update 549 on 2014-07-15 19:17:14
-Update 550 on 2014-07-28 08:06:15
-Update 559 on 2014-08-02 09:49:22
-Update 574 on 2014-08-12 10:27:55
-Update 583 on 2014-09-01 09:54:05
-Update 585 on 2014-09-01 12:27:34
-Update 588 on 2014-09-02 02:27:36
-Update 597 on 2014-09-02 18:31:38
-Update 600 on 2014-09-02 18:47:38
-Update 611 on 2014-09-08 17:33:09
-Update 615 on 2014-09-09 19:19:35
-Update 616 on 2014-09-09 10:46:11
-Update 620 on 2014-09-09 10:24:18
-Update 624 on 2014-09-10 16:00:32
-Update 625 on 2014-09-10 11:09:48
-Update 629 on 2014-09-10 04:54:25
-Update 640 on 2014-09-25 17:58:00
-Update 643 on 2014-09-25 07:18:42
-Update 645 on 2014-10-01 22:44:15
-Update 646 on 2014-10-01 07:28:13
-Update 647 on 2014-10-01 22:42:53
-Update 650 on 2014-10-02 07:11:06
-Update 672 on 2014-10-12 16:30:12
-Update 681 on 2014-10-14 07:25:38
-Update 686 on 2014-10-14 19:59:20
-Update 689 on 2014-10-15 15:17:32
-Update 696 on 2014-10-17 16:11:06
-Update 699 on 2014-10-17 23:31:10
-Update 702 on 2014-10-17 17:15:19
-Update 708 on 2014-10-19 12:13:30
-Update 709 on 2014-10-19 16:53:40
-Update 711 on 2014-10-19 07:01:28
-Update 716 on 2014-10-22 00:10:59
-Update 717 on 2014-10-22 21:52:16
-Update 732 on 2014-10-25 15:46:53
-Update 734 on 2014-10-25 12:46:28
-Update 737 on 2014-10-25 09:13:34
-Update 739 on 2014-10-26 22:12:37
-Update 740 on 2014-10-26 11:46:47
-Update 741 on 2014-10-26 08:55:34
-Update 745 on 2014-10-26 12:23:34
-Update 746 on 2014-10-26 20:12:40
-Update 750 on 2014-10-26 01:30:34
-Update 751 on 2014-10-26 03:59:48
-Update 759 on 2014-10-29 14:27:24
-Update 767 on 2014-10-29 12:39:31
-Update 769 on 2014-10-30 13:01:30
-Update 775 on 2014-11-07 12:53:15
-Update 780 on 2014-11-07 16:03:13
-Update 790 on 2014-11-10 12:49:06
-Update 791 on 2014-11-10 21:11:18
-Update 798 on 2014-11-12 23:05:47
-Update 803 on 2014-11-13 08:06:07
-Update 804 on 2014-11-13 17:49:47
-Update 806 on 2014-11-14 08:34:46
-Update 808 on 2014-11-14 02:51:18
-Update 809 on 2014-11-14 00:47:47
-Update 823 on 2014-11-17 21:15:29
-Update 824 on 2014-11-17 16:40:24
-Update 830 on 2014-11-18 17:35:29
-Update 837 on 2014-11-18 05:56:12
-Update 841 on 2014-11-19 05:23:37
-Update 842 on 2014-11-19 09:06:52
-Update 843 on 2014-11-19 21:11:14
-Update 845 on 2014-11-19 23:23:38
-Update 846 on 2014-11-23 04:05:11
-Update 874 on 2014-12-10 11:39:09
-Update 882 on 2014-12-11 17:10:22
-Update 886 on 2014-12-16 20:49:53
-Update 891 on 2014-12-16 12:02:42
-Update 894 on 2014-12-16 16:08:20
-Update 904 on 2014-12-25 00:11:49
-Update 907 on 2014-12-25 21:31:59
-Update 913 on 2014-12-26 16:35:40
-Update 917 on 2014-12-31 18:48:20
-Update 921 on 2014-12-31 20:06:02
-Update 922 on 2015-01-05 18:52:38
-Update 926 on 2015-01-05 03:45:36
-Update 933 on 2015-01-05 19:22:44
-Update 937 on 2015-01-08 07:53:27
-Update 939 on 2015-01-08 12:38:14
-Update 950 on 2015-01-09 18:18:09
-Update 954 on 2015-01-16 04:31:51
-Update 956 on 2015-01-16 10:59:44
-Update 957 on 2015-01-16 22:57:13
-Update 972 on 2015-01-26 08:53:05
-Update 973 on 2015-01-29 20:56:53
-Update 974 on 2015-01-29 10:52:49
-Update 988 on 2015-01-31 05:33:16
+
+## Features
+
+- Express.js-based REST API architecture
+- Modular route and controller structure
+- Request validation and error handling
+- Authentication middleware support
+- Database integration ready
+- Environment-based configuration
+- API documentation with Swagger/OpenAPI
+- Logging and monitoring utilities
+
+## Structure
+
+```
+src/
+├── routes/        - API route definitions
+├── controllers/   - Request handlers and business logic
+├── models/        - Data models and schemas
+├── middleware/    - Custom middleware (auth, validation)
+└── utils/         - Helper functions and utilities
+```
+
+## Installation
+
+Install dependencies:
+```bash
+npm install
+```
+
+## Usage
+
+Start the development server:
+```bash
+npm run dev
+```
+
+Start production server:
+```bash
+npm start
+```
+
+## API Endpoints
+
+- `GET /api/health` - Health check endpoint
+- `GET /api/users` - List all users
+- `POST /api/users` - Create new user
+- `GET /api/users/:id` - Get user by ID
+- `PUT /api/users/:id` - Update user
+- `DELETE /api/users/:id` - Delete user
+
+## Configuration
+
+Configure environment variables in `.env`:
+```
+PORT=3000
+DATABASE_URL=your_database_url
+JWT_SECRET=your_secret_key
+```
+
+## Requirements
+
+- Node.js 14.0 or higher
+- Express.js
+- Database (MongoDB, PostgreSQL, etc.)
+
+## License
+
+MIT
